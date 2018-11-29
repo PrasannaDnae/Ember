@@ -1,0 +1,1 @@
+This project would reflect my learning curve with Ember.js
